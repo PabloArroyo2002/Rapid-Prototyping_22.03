@@ -51,8 +51,5 @@ Besides trying to design a car to my own liking, I have also illustrated a numbe
 
 ![IMG_20180220_162246_046](https://user-images.githubusercontent.com/90800298/133950312-9def02be-20fa-49dc-be8c-b70809aeb1a4.jpg)
 
-
-
-
 ### Page Design
 -Based on the Slate Design from the selection of themes on Github Pages found at the theme repository for [**slate**](https://github.com/pages-themes/slate)
