@@ -14,7 +14,7 @@ sulfate, grass on the ceilings, and evaporative cooling, but his plans remain fl
 ### Current Brainstorm Ideas
 -Compost Heater
 ![download-2](https://user-images.githubusercontent.com/90800298/134415106-f41b55d4-e0e6-43db-9968-9e2ad5c227f2.jpg)
-
+![CompostHeaterSiloConcept](https://user-images.githubusercontent.com/90800298/134419239-a53b70d2-bdfc-4555-96d4-3f536ee918ba.jpeg)
 -Light Up Platform
 ![download-4](https://user-images.githubusercontent.com/90800298/134415087-1170dfc2-1d3b-4d97-8215-827213aa0960.jpg)
 
@@ -29,6 +29,8 @@ sulfate, grass on the ceilings, and evaporative cooling, but his plans remain fl
 ![images](https://user-images.githubusercontent.com/90800298/134415063-9a771131-660a-4d81-acc1-0277b92ce9fe.jpg)
 
 -Wind powered Van De Graffe Generator
+![40886423322_444bd71b9e_b](https://user-images.githubusercontent.com/90800298/134419524-45b0e6b4-db10-4bfb-9652-84689bfea0e6.jpeg)
+![van-de-graff-web__98484 1574866996](https://user-images.githubusercontent.com/90800298/134419539-761d3c35-d4b5-4cef-94bd-ba5d6999cd07.jpg)
 
 -Block energy storage
 
