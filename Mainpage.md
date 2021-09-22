@@ -11,10 +11,14 @@ develop a method of capturing, or otherwise using energy from the environment. H
 paints and materials that allow a scale model of a house to remain consistently cooler than its surroundings by employing barium
 sulfate, grass on the ceilings, and evaporative cooling, but his plans remain flexible as he is yet to share these ideas with his classmates.
 
-## Page Design
--Based on the Slate Design from the selection of themes on Github Pages found at the theme repository for [**slate**](https://github.com/pages-themes/slate)
+###Current Brainstorm Ideas
+-Compost Heater
+-Light Up Platform
+-Lord Kelvin's Thunderstorm
+-Solar Air Compressor
+-Cloud Chamber
 
-# High School Projects
+
 
 ## Car Design Projects
 In High School, I dedicated much of my time to designing what I consider to be the best sportscar possible. Here are a few of the iterations
@@ -50,6 +54,8 @@ Besides trying to design a car to my own liking, I have also illustrated a numbe
 ![IMG_20170816_133408](https://user-images.githubusercontent.com/90800298/133950292-c20a9572-5a9b-4281-b87f-22cf1a958323.jpg)
 
 ![IMG_20180220_162246_046](https://user-images.githubusercontent.com/90800298/133950312-9def02be-20fa-49dc-be8c-b70809aeb1a4.jpg)
+
+
 
 ### Page Design
 -Based on the Slate Design from the selection of themes on Github Pages found at the theme repository for [**slate**](https://github.com/pages-themes/slate)
