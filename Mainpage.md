@@ -13,10 +13,24 @@ sulfate, grass on the ceilings, and evaporative cooling, but his plans remain fl
 
 ### Current Brainstorm Ideas
 -Compost Heater
+![download-2](https://user-images.githubusercontent.com/90800298/134415106-f41b55d4-e0e6-43db-9968-9e2ad5c227f2.jpg)
+
 -Light Up Platform
+![download-4](https://user-images.githubusercontent.com/90800298/134415087-1170dfc2-1d3b-4d97-8215-827213aa0960.jpg)
+
 -Lord Kelvin's Thunderstorm
+![kelvinwater_feat](https://user-images.githubusercontent.com/90800298/134417194-29e62585-2563-40cb-bcd3-2fb5bd5eb1d6.jpeg)
+
 -Solar Air Compressor
+![download-3](https://user-images.githubusercontent.com/90800298/134415024-ef446ffb-57ec-4649-9133-ad7b78590ca5.jpg)
+
+
 -Cloud Chamber
+![images](https://user-images.githubusercontent.com/90800298/134415063-9a771131-660a-4d81-acc1-0277b92ce9fe.jpg)
+
+-Wind powered Van De Graffe Generator
+
+-Block energy storage
 
 
 
