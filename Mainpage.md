@@ -11,7 +11,7 @@ develop a method of capturing, or otherwise using energy from the environment. H
 paints and materials that allow a scale model of a house to remain consistently cooler than its surroundings by employing barium
 sulfate, grass on the ceilings, and evaporative cooling, but his plans remain flexible as he is yet to share these ideas with his classmates.
 
-###Current Brainstorm Ideas
+### Current Brainstorm Ideas
 -Compost Heater
 -Light Up Platform
 -Lord Kelvin's Thunderstorm
