@@ -13,7 +13,7 @@ sulfate, grass on the ceilings, and evaporative cooling, but his plans remain fl
 
 ### Current Brainstorm Ideas
 -Compost Heater
-![download-2](https://user-images.githubusercontent.com/90800298/134415106-f41b55d4-e0e6-43db-9968-9e2ad5c227f2.jpg)
+![download-2](https://user-images.githubusercontent.com/90800298/134415106-f41b55d4-e0e6-43db-9968-9e2ad5c227f2.jpg | width=100)
 ![CompostHeaterSiloConcept](https://user-images.githubusercontent.com/90800298/134419239-a53b70d2-bdfc-4555-96d4-3f536ee918ba.jpeg)
 -Light Up Platform
 ![download-4](https://user-images.githubusercontent.com/90800298/134415087-1170dfc2-1d3b-4d97-8215-827213aa0960.jpg)
