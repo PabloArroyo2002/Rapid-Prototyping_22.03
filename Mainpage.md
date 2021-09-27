@@ -32,11 +32,12 @@ would be no more harmful than one you might get after walking on a rug). Some of
 ![kelvinwater_feat](https://user-images.githubusercontent.com/90800298/134417194-29e62585-2563-40cb-bcd3-2fb5bd5eb1d6.jpeg)
 
 -Solar Air Compressor
-
+There are various ways we can harness the sun's heat to create a solar air compressor, ranging from efficient and simple to intricate and didactic. One of the options is to heat air in a channel and to harness it's expansion and desire to rise, thus driving a turbine. Another would be to heat the hot end of a stirling engine to turn the heat almost directly into rotary motion to drive a compressor. Both of these methods have low-scientific risk as the stirling engine and hot air balloon both date back to the Industrial Revolution or earlier.
 ![download-3](https://user-images.githubusercontent.com/90800298/134415024-ef446ffb-57ec-4649-9133-ad7b78590ca5.jpg)
 
 
 -Cloud Chamber
+Although CERN has their own [***guide***](https://home.cern/news/news/experiments/how-make-your-own-cloud-chamber) on how to create a cloud chamber, we do not need the same budget as they have to create a tool to explore and demonstrate the energy that constantly passes through us after travelling for millions, if not billions, of miles in outer space. As shown in the picture below, this device would allow for the viewer of the installation to see the paths of cosmic rays and other charged particles that may be in the environment, but would not need an external source of energy or radiation beyond that of the natural environment.
 ![images](https://user-images.githubusercontent.com/90800298/134415063-9a771131-660a-4d81-acc1-0277b92ce9fe.jpg)
 
 -Wind powered Van De Graffe Generator
