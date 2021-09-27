@@ -13,8 +13,11 @@ sulfate, grass on the ceilings, and evaporative cooling, but his plans remain fl
 
 ### Current Brainstorm Ideas
 -Compost Heater
+Here we see both a diagram and an actual instance of compost heaters being implemented. There is certainly potential for using leaves or food waste in a park to keep a space warmer than its surrounding environment during the winter, and the heat source itself can get as warm as 50 degrees celsius as seen [***here***](http://compost.css.cornell.edu/physics.html)
+
 ![download-2](https://user-images.githubusercontent.com/90800298/134415106-f41b55d4-e0e6-43db-9968-9e2ad5c227f2.jpg)
 ![CompostHeaterSiloConcept](https://user-images.githubusercontent.com/90800298/134419239-a53b70d2-bdfc-4555-96d4-3f536ee918ba.jpeg)
+
 -Light Up Platform
 ![download-4](https://user-images.githubusercontent.com/90800298/134415087-1170dfc2-1d3b-4d97-8215-827213aa0960.jpg)
 
