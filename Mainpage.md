@@ -13,18 +13,26 @@ sulfate, grass on the ceilings, and evaporative cooling, but his plans remain fl
 
 ### Current Brainstorm Ideas
 -Compost Heater
-Here we see both a diagram and an actual instance of compost heaters being implemented. There is certainly potential for using leaves or food waste in a park to keep a space warmer than its surrounding environment during the winter, and the heat source itself can get as warm as 50 degrees celsius as seen [***here***](http://compost.css.cornell.edu/physics.html)
+Here we see both a diagram and an actual instance of compost heaters being implemented. There is certainly potential for using leaves or food waste in a park to keep a space warmer than its surrounding environment during the winter, and the heat source itself can get as warm as 50 degrees celsius as seen [***here.***](http://compost.css.cornell.edu/physics.html)
 
 ![download-2](https://user-images.githubusercontent.com/90800298/134415106-f41b55d4-e0e6-43db-9968-9e2ad5c227f2.jpg)
 ![CompostHeaterSiloConcept](https://user-images.githubusercontent.com/90800298/134419239-a53b70d2-bdfc-4555-96d4-3f536ee918ba.jpeg)
 
 -Light Up Platform
+Using the simple idea of converting potential energy in people's steps, we can light up a small led array, particularly in a high traffic area.
 ![download-4](https://user-images.githubusercontent.com/90800298/134415087-1170dfc2-1d3b-4d97-8215-827213aa0960.jpg)
 
 -Lord Kelvin's Thunderstorm
+As suggested by the name, this contraption was invented by the British scientist Lord Kelvin, all the way back in 1867 and has been used
+to show the properties of charged particles and electric fields; however, to my knowledge it has never been used as an artistic installation
+or using rain as its primary water source. The ideas would be to demonstrate how we can capture energy from unexpected sources, and would 
+demonstrate the energy gathered in the form of a small spark that we can keep behind a small screen for safety (althoug the spark itself
+would be no more harmful than one you might get after walking on a rug). Some of the basic information about these contraptions was found
+[***here***](https://www.upsbatterycenter.com/blog/lord-kelvins-thunderstorm/)
 ![kelvinwater_feat](https://user-images.githubusercontent.com/90800298/134417194-29e62585-2563-40cb-bcd3-2fb5bd5eb1d6.jpeg)
 
 -Solar Air Compressor
+
 ![download-3](https://user-images.githubusercontent.com/90800298/134415024-ef446ffb-57ec-4649-9133-ad7b78590ca5.jpg)
 
 
