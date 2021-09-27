@@ -41,10 +41,11 @@ Although CERN has their own [***guide***](https://home.cern/news/news/experiment
 ![images](https://user-images.githubusercontent.com/90800298/134415063-9a771131-660a-4d81-acc1-0277b92ce9fe.jpg)
 
 -Wind powered Van De Graffe Generator
+What's better than one cool demonstration of energy? Two of course, so we would combine the humble windmill or turbine with a Van De Graffe generator to create endless sparks whenever the wind is blowing. Fortunately, the Van De Graffe generator is powered by a simple driving belt and thus we can use gearing to adjust the output of the windmill.
 ![40886423322_444bd71b9e_b](https://user-images.githubusercontent.com/90800298/134419524-45b0e6b4-db10-4bfb-9652-84689bfea0e6.jpeg)
 ![van-de-graff-web__98484 1574866996](https://user-images.githubusercontent.com/90800298/134419539-761d3c35-d4b5-4cef-94bd-ba5d6999cd07.jpg)
 
--Block energy storage
+
 
 
 
