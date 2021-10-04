@@ -1,4 +1,9 @@
 ### Pablo Design Portfolio
+
+# Updates
+### Oct 3.
+Update can be found [***here***](https://pabloarroyo2002.github.io/Rapid_Prototyping_22.03
+
 ## Bio
 Pablo grew up in Richarson, Texas and is now attending MIT. As a prospective course 16 or course 22 student,
 he is very interested in energy can be used to improve human habitations and transportation. Having grown up in
