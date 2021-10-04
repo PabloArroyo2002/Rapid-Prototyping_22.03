@@ -2,7 +2,7 @@
 
 # Updates
 ### Oct 3.
-Update can be found [***here***](https://pabloarroyo2002.github.io/Rapid_Prototyping_22.03
+Update can be found [***here***](https://pabloarroyo2002.github.io/Rapid_Prototyping_22.03)
 
 ## Bio
 Pablo grew up in Richarson, Texas and is now attending MIT. As a prospective course 16 or course 22 student,
